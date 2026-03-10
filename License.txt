@@ -1,0 +1,26 @@
+Copyright (c) 2026
+
+All rights reserved.
+
+This repository contains binary software provided for download and use.
+No permission is granted to copy, modify, distribute, sublicense, reverse engineer,
+or use this software for commercial purposes without explicit written permission
+from the author.
+
+The software is provided "as is", without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a
+particular purpose and noninfringement. In no event shall the author be liable
+for any claim, damages or other liability arising from the use of the software.
+
+Данный репозиторий содержит бинарное программное обеспечение,
+предоставляемое для скачивания и использования.
+Никакое разрешение на копирование, модификацию, распространение,
+сублицензирование, реверс-инжиниринг или коммерческое использование
+данного программного обеспечения без явного письменного разрешения автора
+не предоставляется.
+
+Программное обеспечение предоставляется «как есть», без каких-либо гарантий,
+явных или подразумеваемых, включая, но не ограничиваясь, гарантиями
+товарной пригодности, соответствия определённой цели и ненарушения прав.
+Автор не несёт ответственности за любые претензии, ущерб или иные обязательства,
+возникшие в результате использования программного обеспечения.
